@@ -1,7 +1,7 @@
 # Health Status
 
 
-script read configuration, so called param file and show on out put in nice table if it is running or not
+script will read configuration (so called param file), and show on output, in nice table, if it is running or not
 
 param file should look like
 
