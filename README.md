@@ -11,7 +11,7 @@ You have to define them in the 'param' text file, which has CSV syntax.
 
 How it will tell me if it is running?
 
-In nice and easy to ready table, in CLI.
+In a nice and easy to read table, in CLI.
 
 
 How can i run it?
